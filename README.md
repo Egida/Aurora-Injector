@@ -1,5 +1,5 @@
 # AuroraInjector
-![js](https://img.shields.io/badge/Language-C#-Aqua?style=for-the-badge&logo=CS)
+![js](https://img.shields.io/badge/Language-CSHARP-Blue?style=for-the-badge&logo=CS)
 ![](sample.jpg)
 <b>DLL INJECTOR.</b>
 
