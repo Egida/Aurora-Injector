@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Aurora Injector  by K3rnel-Dev")]
 [assembly: AssemblyDescription("Aurora Injector by K3RNEL-DEV")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("BitLab Security")]
-[assembly: AssemblyProduct("Aurora Injector")]
-[assembly: AssemblyCopyright("Copyright ©BitlabSecurity 2024")]
+[assembly: AssemblyCompany("Aurora Injector by K3RNEL-DEV")]
+[assembly: AssemblyProduct("Aurora Injector by K3RNEL-DEV")]
+[assembly: AssemblyCopyright("Aurora Injector by K3RNEL-DEV")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // Можно задать все значения или принять номера сборки и редакции по умолчанию 
 // используя "*", как показано ниже:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.0.2.4")]
-[assembly: AssemblyFileVersion("2.0.2.5")]
+[assembly: AssemblyVersion("1.3.3.7")]
+[assembly: AssemblyFileVersion("3.3.0.1")]

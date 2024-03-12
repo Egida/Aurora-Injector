@@ -195,5 +195,11 @@ namespace AuroraServer
             }
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            about formAbout = new about();
+            formAbout.Show();
+        }
     }
 }
